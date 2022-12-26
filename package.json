@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "This is a ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akul-sada/ecommerce-website-node.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "Sada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akul-sada/ecommerce-website-node/issues"
+  },
+  "homepage": "https://github.com/Akul-sada/ecommerce-website-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
