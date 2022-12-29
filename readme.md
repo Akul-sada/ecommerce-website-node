@@ -44,11 +44,10 @@ This is for product selling and advertisement
 
 ## Installation
 
-Install my-project with npm
+Install npm install
 
-bash
-  npm install my-project
-  cd my-project
+To run 
+node server.js
 
     
 ## Tech Stack
