@@ -61,11 +61,6 @@ node server.js
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 - Shopping Cart System: A shopping cart system allows customers to add products to an online “cart” and keep track of their purchases. 
 - Payment Processing: An ecommerce website needs to be able to process payments securely. 
 - Product Inventory Management: The ability to keep track of and manage product inventory is critical for an ecommerce website. 
