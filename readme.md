@@ -78,4 +78,4 @@ bash
 - Security: Security is essential for an ecommerce website, as it needs to be able to protect customer data and financial information.
 ## Feedback
 
-If you have any feedback, please reach out to us at addyourgmail@gmail.com
+If you have any feedback, please reach out to us at sadananda.sherigara@gmail.com
