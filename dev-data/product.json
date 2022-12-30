@@ -1,0 +1,398 @@
+[
+  {
+    "productId": "12345",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12346",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12347",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12348",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12349",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12350",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12351",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12352",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12353",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12354",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12345",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  },
+  {
+    "productId": "12355",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with high-resolution camera and fast processing speed.",
+    "price": 499.99,
+    "dicountPercentage": 12.5,
+    "currency": "USD",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "categories": ["electronics", "phones"],
+    "brand": "Apple",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "inStock": true,
+    "shippingOptions": [
+      {
+        "name": "Standard",
+        "price": 9.99,
+        "estimatedDelivery": "3-5 business days"
+      },
+      {
+        "name": "Expedited",
+        "price": 19.99,
+        "estimatedDelivery": "2 business days"
+      }
+    ]
+  }
+]
